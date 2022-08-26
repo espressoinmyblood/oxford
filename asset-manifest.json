@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/oxford/static/css/main.7bf7f3c2.css",
+    "main.js": "/oxford/static/js/main.18d7462f.js",
+    "static/media/video.mp4": "/oxford/static/media/video.98dbf6aa649fcec979cd.mp4",
+    "static/media/therealteam.svg": "/oxford/static/media/therealteam.33f038b982ae62ce5587e72c87284e41.svg",
+    "static/media/connectedworld.svg": "/oxford/static/media/connectedworld.c205bc1250c679e8a10f16c622edc88d.svg",
+    "static/media/collaboration.svg": "/oxford/static/media/collaboration.fd7842aa7a51f464b185658f9006603f.svg",
+    "static/media/world.svg": "/oxford/static/media/world.02868de745b424d35c80194e6ae92e30.svg",
+    "static/media/workspace.svg": "/oxford/static/media/workspace.938c56a2ab465c65c1f3fd5c897a9585.svg",
+    "static/media/hobby.svg": "/oxford/static/media/hobby.b99b6a5c90e51edc7c1ba37047230ad6.svg",
+    "static/media/TCLsq.svg": "/oxford/static/media/TCLsq.4409260bac23cb964a7b3bb3c228de18.svg",
+    "static/media/hero.svg": "/oxford/static/media/hero.6334990423218ed6842a1b9f048cb181.svg",
+    "static/media/about.svg": "/oxford/static/media/about.a0a848c690dfbc5ef78e359409ea97bc.svg",
+    "static/media/thanks.svg": "/oxford/static/media/thanks.f48394058c267a61efe1d55cda2bec66.svg",
+    "static/media/digital.svg": "/oxford/static/media/digital.13978775b0ebf4b798fb08a23819beeb.svg",
+    "static/media/certificate.svg": "/oxford/static/media/certificate.497a235ce67b02eec36ff46c57e74364.svg",
+    "index.html": "/oxford/index.html",
+    "main.7bf7f3c2.css.map": "/oxford/static/css/main.7bf7f3c2.css.map",
+    "main.18d7462f.js.map": "/oxford/static/js/main.18d7462f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bf7f3c2.css",
+    "static/js/main.18d7462f.js"
+  ]
+}
