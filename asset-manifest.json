@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oxford/static/css/main.7bf7f3c2.css",
-    "main.js": "/oxford/static/js/main.18d7462f.js",
+    "main.js": "/oxford/static/js/main.6b394271.js",
     "static/media/video.mp4": "/oxford/static/media/video.98dbf6aa649fcec979cd.mp4",
     "static/media/therealteam.svg": "/oxford/static/media/therealteam.33f038b982ae62ce5587e72c87284e41.svg",
     "static/media/connectedworld.svg": "/oxford/static/media/connectedworld.c205bc1250c679e8a10f16c622edc88d.svg",
@@ -17,10 +17,10 @@
     "static/media/certificate.svg": "/oxford/static/media/certificate.497a235ce67b02eec36ff46c57e74364.svg",
     "index.html": "/oxford/index.html",
     "main.7bf7f3c2.css.map": "/oxford/static/css/main.7bf7f3c2.css.map",
-    "main.18d7462f.js.map": "/oxford/static/js/main.18d7462f.js.map"
+    "main.6b394271.js.map": "/oxford/static/js/main.6b394271.js.map"
   },
   "entrypoints": [
     "static/css/main.7bf7f3c2.css",
-    "static/js/main.18d7462f.js"
+    "static/js/main.6b394271.js"
   ]
 }
